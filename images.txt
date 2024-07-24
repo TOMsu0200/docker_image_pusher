@@ -1,1 +1,4 @@
-jellyfin/jellyfin
+helloz/onenav
+whyour/qinglong
+xhofe/alist
+deluan/navidrome
