@@ -1,4 +1,1 @@
-helloz/onenav
-whyour/qinglong
-xhofe/alist
-deluan/navidrome
+cooderl/wewe-rss-sqlite
