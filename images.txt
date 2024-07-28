@@ -1,1 +1,1 @@
-caryyu/douban-openapi-server:latest
+nyanmisaka/jellyfin
