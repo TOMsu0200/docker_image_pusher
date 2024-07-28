@@ -1,1 +1,1 @@
-cooderl/wewe-rss-sqlite
+caryyu/douban-openapi-server:latest
