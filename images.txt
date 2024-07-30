@@ -1,1 +1,1 @@
-linuxserver/qbittorrent
+clash-lan/clash
