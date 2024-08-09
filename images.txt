@@ -1,1 +1,1 @@
-simple-boot-douban-api
+fugary/simple-boot-douban-api
