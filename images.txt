@@ -1,1 +1,1 @@
-meosmemo/memos
+neosmemo/memos
