@@ -1,1 +1,1 @@
-lovechen/embyserver
+docker pull neosmemo/memos:stable
