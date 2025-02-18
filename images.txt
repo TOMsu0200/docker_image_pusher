@@ -1,1 +1,1 @@
-linuxserver/freshrss:latest
+freshrss/freshrss:latest
