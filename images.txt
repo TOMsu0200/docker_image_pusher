@@ -1,1 +1,1 @@
-freshrss/freshrss:latest
+diygod/rsshub:latest
