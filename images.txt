@@ -1,1 +1,1 @@
-diygod/rsshub:latest
+diygod/rsshub:chromium-bundled
