@@ -1,1 +1,1 @@
-diygod/rsshub:chromium-bundled
+rockchin/langbot:latest
