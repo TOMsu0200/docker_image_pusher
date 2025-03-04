@@ -1,1 +1,1 @@
-rockchin/langbot:latest
+mlikiowa/napcat-docker:latest
