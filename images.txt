@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+ghcr.io/ourongxing/newsnow:latest
