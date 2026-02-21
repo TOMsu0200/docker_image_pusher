@@ -1,1 +1,1 @@
-hisatri/lyricapi:latest
+jeessy/ddns-go:latest
